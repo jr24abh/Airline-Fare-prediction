@@ -1,4 +1,4 @@
-# Optimizing Airline Fare Prediction Using Ensemble Machine Learning Models
+# Optimising Airline Fare Prediction Using Ensemble Machine Learning Models
 
 **Student Name:** Rerai John Kihanya
 **SRN:** 23100389
